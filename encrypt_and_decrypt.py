@@ -1,5 +1,3 @@
-#Kyle Frommelt Encryption Project 4-22-22
-
 from generate_key import first_key
 from cryptography.fernet import Fernet
   
