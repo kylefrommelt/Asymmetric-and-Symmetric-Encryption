@@ -1,5 +1,3 @@
-#Kyle Frommelt Encryption Project 4-22-22
-
 import rsa
 
 
